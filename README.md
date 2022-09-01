@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**kishan3127/kishan3127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm currently working on ReactJs/NextJs
 
-Here are some ideas to get you started:
+🧠 I'm currently learning Headless CMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I'm looking for help with ReactJS
+
+💬 Ask me about Front-end
+
+📫 you can reach me at kishangopamodi@gmail.com
+
+
+## 🛠 Skills
+Javascript, jQuery, HTML, CSS, Bootstrap, ReactJs, NextJs,Apollo Client, graphQL, Redux, Wordpress, Shopify Theme Development, Squarespace, 
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishangopalmodi)
